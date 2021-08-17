@@ -1,2 +1,3 @@
 # Eberspacher-Archives
-4.0.6 WIP Station station select working. Button select working.
+4.0.006 Station select working with WIP and non-WIP stations. New station button select working.
+4.0.007 WIP select working.
