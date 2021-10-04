@@ -5,4 +5,4 @@ version | to do | notes
 4.00.007 | Array of selectable WIPs returned on selection of one or more WIP stations. <br/> |
 4.00.008 | WIP Select fully functional. <br/> |
 4.00.009 | Debug selectable WIP list, selected WIP count. Check selected station count for all buttons. <br/> |
-4.00.010 | fixed: </br>   fixed filter on hmi station selection. </br>   fixed event for redrawing selectable station when selectable station count is less than viewable station count | add selected station data to hmi data structure
+4.00.010 | fixed filter on hmi station selection. </br> fixed event for redrawing selectable station when selectable station count is less than viewable station count | add selected station data to hmi data structure
