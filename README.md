@@ -9,3 +9,5 @@ version | to do | notes
 4.00.011 | new architecture for settings screen </br> start selected station list hmi driver | Settings Screen: Animations -- moved buffering into child functions </br> updated select wip and select button animations to new format </br> made Part Number: Is Single and Part Number: Is Double functions to increase readability </br> settings screen: line entry driver
 4.00.012 | dropzone and line io field drivers working | changed state changes: separated by data type </br> next: total and critical drivers
 4.00.013 | select infrastructure in place</br> line and dropzone working on table | updated after a long period
+4.00.014 | added wip to settings selected wip table</br> added word wrap | 
+4.00.015 | selected wip table animations complete | next up:</br> -  create list for select wip table
