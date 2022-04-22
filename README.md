@@ -13,3 +13,4 @@ version | to do | notes
 4.00.015 | selected wip table animations complete | next up:</br> -  create list for select wip table
 4.00.016 | select table array created | next up: </br> selected station table navigation
 4.00.017 | select wip table navigation working | next up: </br> select wip table data entry
+4.00.018 | identified issue with data entry on wip page | working to correct
