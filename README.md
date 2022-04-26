@@ -15,3 +15,4 @@ version | to do | notes
 4.00.017 | select wip table navigation working | next up: </br> select wip table data entry
 4.00.018 | identified issue with data entry on wip page | working to correct
 4.00.019 | dropzone visibility | invisible when selected stations are 0 or more than 1
+4.00.020 | line visibility | invisible when no selected stations or selected stations line names do not match
