@@ -1,5 +1,5 @@
 # Eberspacher-Archives
-version | to do | notes
+version | to do | next
 --------|-------|------
 4.00.006 | Station select working with WIP and non-WIP stations. New station button select working. <br/> |
 4.00.007 | Array of selectable WIPs returned on selection of one or more WIP stations. <br/> |
@@ -16,4 +16,15 @@ version | to do | notes
 4.00.018 | identified issue with data entry on wip page | working to correct
 4.00.019 | dropzone visibility | invisible when selected stations are 0 or more than 1
 4.00.020 | line visibility | invisible when no selected stations or selected stations line names do not match
-4.00.021 | wip table navigatin visibility | invisible when fewer than 3 wips or stations selected
+4.00.021 | wip table navigation visibility | invisible when fewer than 3 wips or stations selected
+4.00.022 | single/double part number entry infrastructure | validate part number entry function
+4.00.023 | single & double part number entry validated | validate line data entry function
+4.00.024 | line data entry function validated | validate dropzone data entry function
+4.00.025 | dropzone data entry validated | validate total time data entry function
+4.00.026 | total time data entry validated | validate critical time data entry function
+4.00.027 | critical time data entry function validated | validate hmi station line data entry function
+4.00.028 | hmi station line data entry validated | validate hmi station dropzone data entry functionality
+4.00.029 | hmi station dropzone data entry validated | validate hmi station total time data entry functionality
+4.00.030 | hmi station total time data entry functionality validated | validate hmi station critical time data entry functionality
+4.00.031 | hmi station critical time data entry validated | validate hmi station part number data entry functionality
+4.00.032 | address large led display issue | ???
