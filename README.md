@@ -27,4 +27,5 @@ version | to do | next
 4.00.029 | hmi station dropzone data entry validated | validate hmi station total time data entry functionality
 4.00.030 | hmi station total time data entry functionality validated | validate hmi station critical time data entry functionality
 4.00.031 | hmi station critical time data entry validated | validate hmi station part number data entry functionality
-4.00.032 | address large led display issue | ???
+4.00.032 | address large led display issue | validate wip switchover
+4.00.033 | validate wip switchover | ???
