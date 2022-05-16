@@ -28,4 +28,8 @@ version | to do | next
 4.00.030 | hmi station total time data entry functionality validated | validate hmi station critical time data entry functionality
 4.00.031 | hmi station critical time data entry validated | validate hmi station part number data entry functionality
 4.00.032 | address large led display issue | validate wip switchover
-4.00.033 | validate wip switchover | ???
+4.00.033 | part call row selection performed | load data into barcode udt
+4.00.034 | data loaded into barcode udt | add acknowledged button
+4.00.035 | acknowledged button added | set ordered state
+4.00.036 | ordered state set | set acknowledged state
+4.00.037 | acknowledged state set | fix wip switch issue
