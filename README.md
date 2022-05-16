@@ -33,3 +33,4 @@ version | to do | next
 4.00.035 | acknowledged button added | set ordered state
 4.00.036 | ordered state set | set acknowledged state
 4.00.037 | acknowledged state set | fix wip switch issue
+4.00.038 | fix wip switch issue | fix timer colors
