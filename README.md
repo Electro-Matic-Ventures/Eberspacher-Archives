@@ -34,3 +34,4 @@ version | to do | next
 4.00.036 | ordered state set | set acknowledged state
 4.00.037 | acknowledged state set | fix wip switch issue
 4.00.038 | fix wip switch issue | fix multi-line display on <br> main hmi part call and barcode screen
+4.00.039 | safety submit | submitting just in case v38 does not match deployed program
